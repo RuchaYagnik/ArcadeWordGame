@@ -1,2 +1,1 @@
-# ArcadeWordGame
-Time To Kill
+# TimeToKill
